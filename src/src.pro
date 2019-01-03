@@ -1,7 +1,7 @@
 include(../common.pri)
 
 TEMPLATE = lib
-CONFIG += qt
+CONFIG += staticlib
 
 QT = core dbus
 
